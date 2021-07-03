@@ -1,0 +1,209 @@
+State,CauseofFire,2015,2016,2017,2018,2019,2020,Total
+Perlis,Electricity,16,33,29,23,7,23,131
+Perlis,Cigarette Butts,4,8,2,1,5,0,20
+Perlis,Fire Spark,1,5,0,2,1,1,10
+Perlis,Fire Crackers,1,0,0,0,0,0,1
+Perlis,Mosquito Repellent/Candles/Incense,1,1,1,0,0,0,3
+Perlis,Cooking Gas/Fuel,9,4,5,2,3,1,24
+Perlis,Spontanious Reaction,1,30,0,0,2,6,39
+Perlis,Intentionally(Not Arsonist),40,138,41,31,31,12,293
+Perlis,Intentionally(Arsonist),2,1,0,1,0,1,5
+Perlis,Unknown,5,1,0,0,0,0,6
+Perlis,Chemical Reaction,1,0,0,0,0,0,1
+Perlis,Matches,2,0,0,1,0,0,3
+Perlis,Others,634,866,304,495,737,867,3903
+Kedah,Electricity,135,56,60,61,22,22,356
+Kedah,Cigarette Butts,11,4,3,1,2,1,22
+Kedah,Fire Spark,15,13,2,3,0,2,35
+Kedah,Fire Crackers,0,1,2,1,0,0,4
+Kedah,Mosquito Repellent/Candles/Incense,5,1,1,0,3,1,11
+Kedah,Cooking Gas/Fuel,33,15,13,10,8,4,83
+Kedah,Spontanious Reaction,2,0,0,4,1,2,9
+Kedah,Intentionally(Not Arsonist),384,425,83,86,69,61,1108
+Kedah,Intentionally(Arsonist),5,5,5,5,2,1,23
+Kedah,Unknown,30,15,4,8,21,27,105
+Kedah,Chemical Reaction,0,1,0,0,0,0,1
+Kedah,Matches,2,2,1,0,0,0,5
+Kedah,Others,2087,3833,1710,2314,3522,3739,17205
+Pulau Pinang,Electricity,383,332,269,254,223,200,1661
+Pulau Pinang,Cigarette Butts,142,172,79,53,100,45,591
+Pulau Pinang,Fire Spark,23,17,12,16,7,12,87
+Pulau Pinang,Fire Crackers,12,7,4,6,6,3,38
+Pulau Pinang,Mosquito Repellent/Candles/Incense,25,18,14,11,19,11,98
+Pulau Pinang,Cooking Gas/Fuel,136,96,95,65,67,65,524
+Pulau Pinang,Spontanious Reaction,16,22,9,10,46,9,112
+Pulau Pinang,Intentionally(Not Arsonist),672,673,206,180,306,218,2255
+Pulau Pinang,Intentionally(Arsonist),16,39,24,17,32,22,150
+Pulau Pinang,Unknown,64,38,13,7,29,15,166
+Pulau Pinang,Chemical Reaction,1,0,1,1,2,0,5
+Pulau Pinang,Matches,16,10,4,2,7,12,51
+Pulau Pinang,Others,1225,2071,1408,1581,2016,2146,10447
+Perak,Electricity,128,109,93,65,95,102,592
+Perak,Cigarette Butts,27,24,4,2,6,6,69
+Perak,Fire Spark,22,8,4,6,4,5,49
+Perak,Fire Crackers,1,2,0,1,1,1,6
+Perak,Mosquito Repellent/Candles/Incense,2,8,1,0,8,5,24
+Perak,Cooking Gas/Fuel,43,26,20,22,29,16,156
+Perak,Spontanious Reaction,9,4,2,3,1,2,21
+Perak,Intentionally(Not Arsonist),174,312,89,89,115,99,878
+Perak,Intentionally(Arsonist),35,41,0,6,4,4,90
+Perak,Unknown,230,220,68,59,175,95,847
+Perak,Chemical Reaction,0,0,0,0,0,0,0
+Perak,Matches,1,3,3,1,1,0,9
+Perak,Others,2917,5819,3295,3609,4176,3261,23077
+Selangor,Electricity,377,305,276,231,146,124,1459
+Selangor,Cigarette Butts,25,42,29,19,16,5,136
+Selangor,Fire Spark,34,29,18,22,20,12,135
+Selangor,Fire Crackers,0,6,0,3,1,0,10
+Selangor,Mosquito Repellent/Candles/Incense,20,11,10,7,7,3,58
+Selangor,Cooking Gas/Fuel,109,80,62,43,50,29,373
+Selangor,Spontanious Reaction,15,7,20,24,20,29,115
+Selangor,Intentionally(Not Arsonist),316,377,152,200,148,68,1261
+Selangor,Intentionally(Arsonist),55,73,21,21,25,24,219
+Selangor,Unknown,19,44,25,15,11,3,117
+Selangor,Chemical Reaction,1,1,0,0,0,2,4
+Selangor,Matches,20,19,5,10,9,3,66
+Selangor,Others,5836,7167,5773,6750,7781,7219,40526
+Kuala Lumpur,Electricity,288,273,218,257,230,170,1436
+Kuala Lumpur,Cigarette Butts,35,47,30,38,32,23,205
+Kuala Lumpur,Fire Spark,22,16,20,19,11,10,98
+Kuala Lumpur,Fire Crackers,7,5,3,10,3,1,29
+Kuala Lumpur,Mosquito Repellent/Candles/Incense,15,13,13,18,13,9,81
+Kuala Lumpur,Cooking Gas/Fuel,102,77,66,75,95,60,475
+Kuala Lumpur,Spontanious Reaction,6,7,6,4,3,0,26
+Kuala Lumpur,Intentionally(Not Arsonist),66,77,32,53,22,25,275
+Kuala Lumpur,Intentionally(Arsonist),88,80,43,23,24,9,267
+Kuala Lumpur,Unknown,15,22,9,9,8,2,65
+Kuala Lumpur,Chemical Reaction,3,1,0,0,0,0,4
+Kuala Lumpur,Matches,5,3,8,5,2,7,30
+Kuala Lumpur,Others,969,1077,1057,1050,1219,1156,6528
+N.Sembilan,Electricity,54,38,43,53,35,18,241
+N.Sembilan,Cigarette Butts,18,35,7,25,14,13,112
+N.Sembilan,Fire Spark,4,2,2,1,3,0,12
+N.Sembilan,Fire Crackers,0,0,0,0,0,0,0
+N.Sembilan,Mosquito Repellent/Candles/Incense,3,1,3,2,0,2,11
+N.Sembilan,Cooking Gas/Fuel,17,10,16,12,1,8,64
+N.Sembilan,Spontanious Reaction,3,1,1,6,6,0,17
+N.Sembilan,Intentionally(Not Arsonist),89,81,31,104,102,56,463
+N.Sembilan,Intentionally(Arsonist),2,1,5,5,2,0,15
+N.Sembilan,Unknown,6,3,1,6,0,0,16
+N.Sembilan,Chemical Reaction,1,0,0,0,0,0,1
+N.Sembilan,Matches,3,0,1,2,0,2,8
+N.Sembilan,Others,1445,1947,1162,1751,2275,1667,10247
+Melaka,Electricity,150,152,120,113,83,71,689
+Melaka,Cigarette Butts,21,10,3,4,3,6,47
+Melaka,Fire Spark,24,20,6,7,7,6,70
+Melaka,Fire Crackers,1,4,2,1,2,0,10
+Melaka,Mosquito Repellent/Candles/Incense,5,5,5,11,2,3,31
+Melaka,Cooking Gas/Fuel,39,37,42,21,16,28,183
+Melaka,Spontanious Reaction,1,2,2,13,6,5,29
+Melaka,Intentionally(Not Arsonist),556,618,149,228,273,170,1994
+Melaka,Intentionally(Arsonist),12,12,5,10,0,3,42
+Melaka,Unknown,20,18,10,15,59,18,140
+Melaka,Chemical Reaction,1,1,1,0,3,2,8
+Melaka,Matches,5,5,4,5,24,40,83
+Melaka,Others,1057,1582,801,1133,2018,1546,8137
+Johor,Electricity,147,100,95,70,60,84,556
+Johor,Cigarette Butts,326,167,71,95,182,72,913
+Johor,Fire Spark,29,27,20,23,34,38,171
+Johor,Fire Crackers,13,7,3,4,4,0,31
+Johor,Mosquito Repellent/Candles/Incense,14,10,9,8,3,2,46
+Johor,Cooking Gas/Fuel,64,40,40,38,33,30,245
+Johor,Spontanious Reaction,20,6,4,6,4,5,45
+Johor,Intentionally(Not Arsonist),720,415,164,199,381,204,2083
+Johor,Intentionally(Arsonist),94,63,32,32,60,41,322
+Johor,Unknown,221,82,63,49,64,113,592
+Johor,Chemical Reaction,1,4,1,1,2,0,9
+Johor,Matches,9,7,8,13,9,1,47
+Johor,Others,5149,4220,3100,4390,7518,4476,28853
+Pahang,Electricity,71,75,64,62,55,56,383
+Pahang,Cigarette Butts,17,44,10,14,7,4,96
+Pahang,Fire Spark,9,12,6,3,10,4,44
+Pahang,Fire Crackers,3,1,0,0,1,0,5
+Pahang,Mosquito Repellent/Candles/Incense,1,7,4,0,3,4,19
+Pahang,Cooking Gas/Fuel,27,20,20,24,17,25,133
+Pahang,Spontanious Reaction,43,37,4,6,6,5,101
+Pahang,Intentionally(Not Arsonist),122,143,24,60,84,58,491
+Pahang,Intentionally(Arsonist),20,15,5,13,16,2,71
+Pahang,Unknown,48,62,15,23,18,7,173
+Pahang,Chemical Reaction,1,0,0,0,0,0,1
+Pahang,Matches,2,4,1,1,3,1,12
+Pahang,Others,2195,2518,1189,1957,2682,1725,12266
+Terengganu,Electricity,205,147,138,99,89,101,779
+Terengganu,Cigarette Butts,105,145,25,35,64,13,387
+Terengganu,Fire Spark,55,40,28,35,46,27,231
+Terengganu,Fire Crackers,6,6,2,0,4,1,19
+Terengganu,Mosquito Repellent/Candles/Incense,11,3,7,1,3,0,25
+Terengganu,Cooking Gas/Fuel,55,33,27,19,28,16,178
+Terengganu,Spontanious Reaction,23,9,4,5,6,3,50
+Terengganu,Intentionally(Not Arsonist),883,815,259,376,400,343,3076
+Terengganu,Intentionally(Arsonist),13,13,5,5,3,1,40
+Terengganu,Unknown,124,79,39,54,61,46,403
+Terengganu,Chemical Reaction,2,1,2,0,1,1,7
+Terengganu,Matches,1,2,7,6,4,0,20
+Terengganu,Others,513,1098,617,988,1542,1116,5874
+Kelantan,Electricity,248,184,170,137,89,129,957
+Kelantan,Cigarette Butts,70,25,10,18,12,14,149
+Kelantan,Fire Spark,21,11,9,10,7,9,67
+Kelantan,Fire Crackers,3,1,0,4,1,0,9
+Kelantan,Mosquito Repellent/Candles/Incense,2,4,6,3,1,3,19
+Kelantan,Cooking Gas/Fuel,45,28,32,26,25,30,186
+Kelantan,Spontanious Reaction,5,5,0,1,5,1,17
+Kelantan,Intentionally(Not Arsonist),457,294,90,125,206,148,1320
+Kelantan,Intentionally(Arsonist),18,11,5,8,4,2,48
+Kelantan,Unknown,19,13,10,13,15,3,73
+Kelantan,Chemical Reaction,1,0,0,0,0,0,1
+Kelantan,Matches,9,3,4,2,3,2,23
+Kelantan,Others,1014,1630,824,978,1720,1218,7384
+Sabah,Electricity,31,17,24,38,19,49,178
+Sabah,Cigarette Butts,4,1,4,6,7,6,28
+Sabah,Fire Spark,2,1,1,1,4,5,14
+Sabah,Fire Crackers,0,0,0,0,0,0,0
+Sabah,Mosquito Repellent/Candles/Incense,3,0,3,1,4,4,15
+Sabah,Cooking Gas/Fuel,10,3,6,5,15,7,46
+Sabah,Spontanious Reaction,7,4,0,1,2,2,16
+Sabah,Intentionally(Not Arsonist),11,6,3,4,7,2,33
+Sabah,Intentionally(Arsonist),0,3,3,0,3,4,13
+Sabah,Unknown,12,17,4,7,27,5,72
+Sabah,Chemical Reaction,1,0,0,0,0,0,1
+Sabah,Matches,3,2,2,1,0,5,13
+Sabah,Others,3243,4566,1689,2411,4446,2838,19193
+Sarawak,Electricity,206,164,125,83,77,89,744
+Sarawak,Cigarette Butts,54,28,29,9,4,7,131
+Sarawak,Fire Spark,42,27,43,38,33,7,190
+Sarawak,Fire Crackers,5,2,2,3,1,1,14
+Sarawak,Mosquito Repellent/Candles/Incense,19,15,11,5,6,6,62
+Sarawak,Cooking Gas/Fuel,51,56,63,29,19,15,233
+Sarawak,Spontanious Reaction,14,14,18,8,8,4,66
+Sarawak,Intentionally(Not Arsonist),317,333,160,83,152,55,1100
+Sarawak,Intentionally(Arsonist),100,136,38,24,45,15,358
+Sarawak,Unknown,54,34,19,17,10,2,136
+Sarawak,Chemical Reaction,5,1,2,1,2,0,11
+Sarawak,Matches,55,72,15,19,21,9,191
+Sarawak,Others,1217,1130,1272,2058,3025,1422,10124
+Labuan,Electricity,5,5,5,4,1,1,21
+Labuan,Cigarette Butts,0,0,0,1,0,0,1
+Labuan,Fire Spark,0,0,0,1,0,0,1
+Labuan,Fire Crackers,0,0,0,0,0,0,0
+Labuan,Mosquito Repellent/Candles/Incense,0,0,1,1,0,1,3
+Labuan,Cooking Gas/Fuel,5,0,2,1,1,2,11
+Labuan,Spontanious Reaction,0,0,1,0,0,0,1
+Labuan,Intentionally(Not Arsonist),0,0,0,0,0,0,0
+Labuan,Intentionally(Arsonist),0,0,0,1,0,0,1
+Labuan,Unknown,2,0,1,0,0,0,3
+Labuan,Chemical Reaction,0,0,0,0,0,0,0
+Labuan,Matches,1,0,0,0,0,0,1
+Labuan,Others,294,483,151,212,377,276,1793
+Putrajaya,Electricity,9,15,8,13,3,0,48
+Putrajaya,Cigarette Butts,1,1,1,1,0,0,4
+Putrajaya,Fire Spark,1,1,0,1,0,0,3
+Putrajaya,Fire Crackers,0,0,0,0,0,0,0
+Putrajaya,Mosquito Repellent/Candles/Incense,0,1,0,0,0,0,1
+Putrajaya,Cooking Gas/Fuel,7,3,10,6,7,6,39
+Putrajaya,Spontanious Reaction,0,0,0,0,0,0,0
+Putrajaya,Intentionally(Not Arsonist),4,3,1,0,0,0,8
+Putrajaya,Intentionally(Arsonist),0,0,0,0,0,0,0
+Putrajaya,Unknown,3,1,1,0,0,0,5
+Putrajaya,Chemical Reaction,0,0,0,0,0,0,0
+Putrajaya,Matches,1,0,0,0,0,0,1
+Putrajaya,Others,61,71,65,76,58,54,385
